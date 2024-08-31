@@ -22,4 +22,10 @@ Open Terminal
 python3 fritzapi.py
 
 <div></div>
-<img scr=> https://i.gyazo.com/49daf60f36fae1d7307c7d8f9656facb.png</img>
+<img scr=https://i.gyazo.com/49daf60f36fae1d7307c7d8f9656facb.png/>
+
+<div align="center">
+<a href="https://i.gyazo.com/7f2323c022853777ea6d1ef75ffc8cf7.png">
+<img src="https://i.gyazo.com/7f2323c022853777ea6d1ef75ffc8cf7.png" />
+</a>
+</div>
