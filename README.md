@@ -22,3 +22,4 @@ Open Terminal
 python3 fritzapi.py
 
 
+<img scr= https://i.gyazo.com/49daf60f36fae1d7307c7d8f9656facb.png/img>
