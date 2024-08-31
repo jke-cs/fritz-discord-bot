@@ -21,6 +21,10 @@ Open Terminal
 
 python3 fritzapi.py
 
+
+Command to activate the bot /bandwidth
+
+
 <div align="center">
 <a href="https://i.gyazo.com/49daf60f36fae1d7307c7d8f9656facb.png">
 <img src="https://i.gyazo.com/49daf60f36fae1d7307c7d8f9656facb.png" />
