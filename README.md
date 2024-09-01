@@ -3,6 +3,14 @@ Using Fritz's API to read traffic information from AVM FritzBOX Routers and conn
 
 <br> 
 Tested on a Fritz.Box 7590
+Fritz!OS: 7.57
+
+In order to access the API you need to activate UPnP and Allow App Access TR-064.
+
+
+Documentation Fritz API
+
+https://fritzconnection.readthedocs.io/en/1.4.2/sources/api.html
 
 ## Configure
 <br>
