@@ -1,5 +1,5 @@
 # Fritz-Discord-Bot
-Using Fritz's API to read traffic information from AVM FritzBOX Routers and connect this with a Discord bot posting and updating the the message.
+Using Fritz's API to read traffic information from AVM FritzBOX routers and connect this with a Discord bot posting and updating the the message.
 
 <br> 
 Tested on a Fritz.Box 7590
