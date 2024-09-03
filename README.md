@@ -41,5 +41,7 @@ Command to activate the bot /bandwidth
 
 ## Pterodactyl Egg
 
-Import the pterodactyl Egg
+Import the Pterodactyl Egg
 Upload requirements.txt and the skript to the main folder
+
+
