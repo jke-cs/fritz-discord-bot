@@ -10,9 +10,6 @@
     "description": "Python egg with compatibility for multiple Python versions.",
     "features": null,
     "docker_images": {
-        "quay.io\/yajtpg\/pterodactyl-images:python-2.7": "quay.io\/yajtpg\/pterodactyl-images:python-2.7",
-        "quay.io\/yajtpg\/pterodactyl-images:python-3.8": "quay.io\/yajtpg\/pterodactyl-images:python-3.8",
-        "quay.io\/yajtpg\/pterodactyl-images:python-3.9": "quay.io\/yajtpg\/pterodactyl-images:python-3.9",
         "quay.io\/yajtpg\/pterodactyl-images:python-3.10": "quay.io\/yajtpg\/pterodactyl-images:python-3.10",
         "quay.io\/yajtpg\/pterodactyl-images:python-3.11": "quay.io\/yajtpg\/pterodactyl-images:python-3.11"
     },
