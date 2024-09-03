@@ -38,3 +38,7 @@ Command to activate the bot /bandwidth
 <img src="https://i.gyazo.com/49daf60f36fae1d7307c7d8f9656facb.png" />
 </a>
 </div>
+
+## Pterodactyl Egg
+
+Import the pterodactyl Egg
